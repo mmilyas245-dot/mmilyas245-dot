@@ -109,13 +109,18 @@
 
 ---
 
+---
+
 ### 📊 Dynamic Coding Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <!-- RELIABLE STATS MIRROR -->
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <!-- RELIABLE LANGUAGES MIRROR -->
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- LIGHTWEIGHT SYSTEM STREAK -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&theme=tokyonight" width="97%" alt="GitHub Streak" />
 </p>
 
@@ -123,8 +128,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <!-- THE BULLETPROOF BULLET LINK PASTED HERE -->
-  <img src="https://github-cards.github.io/card?user=mmilyas245-dot&theme=tokyonight" width="100%" alt="GitHub Profile Card" />
+  <!-- LIGHTWEIGHT MULTI-THEME TROPHY MIRROR -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mmilyas245-dot&theme=tokyonight&no-bg=false&margin-w=15" width="100%" alt="Trophies" />
 </p>
 
 ---

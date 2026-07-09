@@ -126,10 +126,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
+---
+
+### 📈 Activity & Contribution Graph
 <p align="center">
-  <!-- LIGHTWEIGHT MULTI-THEME TROPHY MIRROR -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mmilyas245-dot&theme=tokyonight&no-bg=false&margin-w=15" width="100%" alt="Trophies" />
+  <!-- BULLETPROOF PUBLIC SERVICE THAT NEVER DROPS -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmilyas245-dot&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---

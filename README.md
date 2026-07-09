@@ -11,8 +11,6 @@
   <!-- ANIMATED TYPING NAME FROM THE LEFT IN VIBRANT BLUE -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=70&lines=Muhammad+Ilyas" alt="Typing Name Animation" />
 </p>
-<!-- 3. CENTERED TYPOGRAPHY -->
-<h1 align="center">Muhammad Ilyas</h1>
 
 <p align="center">
   <strong>Informatics Student | AI Systems & Software Engineering 🚀</strong>

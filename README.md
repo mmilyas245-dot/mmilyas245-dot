@@ -113,12 +113,11 @@
 
 ### 📊 Dynamic Coding Analytics
 <p align="center">
-  <!-- RELIABLE STATS MIRROR -->
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <!-- RELIABLE LANGUAGES MIRROR -->
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <!-- ALTERNATIVE STABLE STATS DEPLOYMENT -->
+  <img src="https://github-readme-stats-readme-stats.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <!-- ALTERNATIVE STABLE LANGUAGES DEPLOYMENT -->
+  <img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
-
 <p align="center">
   <!-- LIGHTWEIGHT SYSTEM STREAK -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&theme=tokyonight" width="97%" alt="GitHub Streak" />

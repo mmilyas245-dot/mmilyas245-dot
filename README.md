@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- 1. DYNAMIC SKILLS COLLAGE BANNER -->
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,arduino,vscode,git,github,linux&perline=10&theme=dark" alt="My Tech Stack Banner" />
+  <!-- 1. PLACED AT THE VERY TOP: YOUR NEW MAGICAL ANIMATED BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MUHAMMAD%20ILYAS&fontSize=40&animation=twinkling&theme=tokyonight" width="100%" alt="Magical Coding Banner" />
 </p>
 
 <p align="center">

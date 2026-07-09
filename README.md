@@ -1,4 +1,8 @@
 <p align="center">
+  <!-- THE MAGICAL DIGITAL RAIN FALLING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MUHAMMAD%20ILYAS&fontSize=40&animation=twinkling&theme=tokyonight" width="100%" alt="Magical Coding Banner" />
+</p>
+<p align="center">
   <!-- ALTERNATIVE: FALLING SIMULATION BANNER -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNoZzZ5cXp4N3RyZndpZzR5M3M3ZndpZzR5M3M3ZndpZzR5M3M3Zg/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Matrix Rain" />
 </p>

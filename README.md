@@ -123,7 +123,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmilyas245-dot&theme=tokyonight&no-bg=true&margin-w=15" width="100%" alt="Trophies" />
+  <!-- THE BULLETPROOF BULLET LINK PASTED HERE -->
+  <img src="https://github-cards.github.io/card?user=mmilyas245-dot&theme=tokyonight" width="100%" alt="GitHub Profile Card" />
 </p>
 
 ---

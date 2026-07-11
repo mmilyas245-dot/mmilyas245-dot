@@ -1,3 +1,13 @@
+<!-- =============================== -->
+<!-- 👋 Header Section -->
+<!-- =============================== -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+       alt="Waving Hand" 
+       height="45" 
+       width="45"/>
+  <h1>
 <p align="center">
   <!-- 2. ROLLING CONTACT MARQUEE WITH YOUR EMAIL -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=For+any+queries+or+questions%2C+email+me+at%3A;mmIlyas245%40gmail.com" alt="Contact Marquee Animation" />

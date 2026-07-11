@@ -90,6 +90,11 @@
 * 🏆 **Entrepreneurial Mindset:** Startup founder and hackathon winner aiming to bring clean, useful digital products to life.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Abbas1/M-Abbas1/main/assets/professional-divider.svg" width="100%" alt="Matrix Banner">
+</p>
+
+<br>
 
 <h2 align="center">🛠️ Tech Stack & Digital Toolkit</h2>
 

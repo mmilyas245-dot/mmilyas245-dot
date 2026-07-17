@@ -124,13 +124,13 @@
 ### 📊 Dynamic Coding Analytics
 <p align="center">
   <!-- ALTERNATIVE STABLE STATS DEPLOYMENT -->
-  <img src="https://github-readme-stats-readme-stats.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+<!--<img src="https://github-readme-stats-readme-stats.vercel.app/api?username=mmilyas245-dot&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />-->
   <!-- ALTERNATIVE STABLE LANGUAGES DEPLOYMENT -->
-  <img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" /> -->
 </p>
-<p align="center">
+<p align="center"> -->
   <!-- LIGHTWEIGHT SYSTEM STREAK -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&theme=tokyonight" width="97%" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&theme=tokyonight" width="97%" alt="GitHub Streak" />
 </p>
 
 ---

@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Abbas1/M-Abbas1/main/assets/matrix1.svg" width="100%" alt="Matrix Banner">
+<!-- =============================== -->
+<!-- 🌌 Animated Matrix Background -->
+<!-- =============================== -->
+
+![Matrix SVG](./matrix.svg)  
 </p>
 
 <br>

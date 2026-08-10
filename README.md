@@ -73,10 +73,7 @@
         return "Learning Artificial Intelligence"
       </pre>
     </td>
-    <!-- COLUMN 2: PREMIUM VECTOR DEVELOPER ILLUSTRATION -->
-    <td width="45%" valign="middle" align="center">
-      <img src="https://user-images.githubusercontent.com/25217840/142345091-76678da6-3af4-46fb-89c0-630e66051786.gif" width="90%" alt="Developer Workspace" />
-    </td>
+    
   </tr>
 </table>
 

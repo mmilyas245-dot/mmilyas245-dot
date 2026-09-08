@@ -119,7 +119,14 @@
 </p>
 
 ---
+<h2><i>⚙️ GitHub Analytics</i></h2>
 
+<p align="center">
+<a href="https://github.com/saadhaxxan">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
 ---
 
 ### 📊 Dynamic Coding Analytics
@@ -139,12 +146,7 @@
 ---
 
 ### 📈 Activity & Contribution Graph
-<p align="center">
-  <!-- BULLETPROOF PUBLIC SERVICE THAT NEVER DROPS -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmilyas245-dot&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
-</p>
 
----
 
 ### 🤝 Connect & Collaborate
 <p align="center">
@@ -172,12 +174,7 @@
   <img src="https://img.shields.io/badge/Workspace-VS_Code_%26_Git-blue?style=for-the-badge&logo=visual-studio-code" alt="Workspace" />
 </p>
 
-<p align="center">
-  <!-- DYNAMIC REPO CARD THAT USES GITHUB'S NATIVE DOMAIN (NEVER CRASHES) -->
-  <a href="https://github.com/mmilyas245-dot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmilyas245-dot&repo=mmilyas245-dot&theme=tokyonight" width="100%" alt="Profile Repository" />
-  </a>
-</p>
+
 
 ---
 

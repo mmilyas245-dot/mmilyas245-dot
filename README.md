@@ -1,3 +1,24 @@
+---
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/saadhaxxan">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmilyas245-dot&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmilyas245-dot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+<p align="center">
+  <!-- 2. ROLLING CONTACT MARQUEE WITH YOUR EMAIL -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=10B981&center=true&vCenter=true&width=700&height=50&lines=For+any+queries+or+questions%2C+email+me+at%3A;mmIlyas245%40gmail.com" alt="Contact Marquee Animation" />
+</p>
+<p align="center">
+  <!-- 2. ANIMATED WAVING HAND EMOJI -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Wave" />
+</p>
+<p align="center">
+  <!-- ANIMATED TYPING NAME FROM THE LEFT IN VIBRANT BLUE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=70&lines=Muhammad+Ilyas" alt="Typing Name Animation" />
+</p>
 <p align="center">
 <!-- =============================== -->
 <!-- 🌌 Animated Matrix Background -->
